@@ -18,9 +18,9 @@ The final tidy data is produced inside the run_analysis.R, it is called **dataSe
 
 The file **tidy_dataset.txt** located in the project repository is the tidy data set with the average of each variable for each activity and each subject. It is a text file containing space-separated values.
 
-** The first column is the subject ID of the person who dit the experiment.
-** The second column is the activity that the subject was doing during the measurement.
-** The rest of the columns are the mean and standard deviation feature variables.
+* The first column is the subject ID of the person who dit the experiment.
+* The second column is the activity that the subject was doing during the measurement.
+* The rest of the columns are the mean and standard deviation feature variables.
 
 
 ## Transformations
