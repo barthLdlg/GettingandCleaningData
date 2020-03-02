@@ -55,3 +55,5 @@ tidySet <- dataSetTestTrain %>% group_by(subject, activityLabel) %>% summarise_a
 
 ### Save the dataset
 write.table(tidySet, file="../tidy_dataset.txt", row.names = FALSE)
+tidySet
+
